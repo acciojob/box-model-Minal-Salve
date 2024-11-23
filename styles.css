@@ -17,15 +17,15 @@
 	text-align:center;
 }
 
-#item1{
+.red{
 	background-color:red;
 	text-align:center;
 }
-#item2{
+.green{
 	background-color:green;
 	text-align:center;
 }
-#item3{
+.yellow{
 	background-color:yellow;
 	text-align:center;
 }
